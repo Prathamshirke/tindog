@@ -1,2 +1,1 @@
-# tindog
-tindog homepage template using html, css, bootstrap5
+TinDog Starting Files
